@@ -1,0 +1,1 @@
+The goal is to fine-tune the Llama 3.1 model on a dataset of patient-doctor conversations using free resources provided by Kaggle. Once the model is successfully fine-tuned, it can answer medical-related questions in a highly professional manner.
