@@ -1,0 +1,9 @@
+setuptools<70
+llvmlite==0.41.1
+unstructured[docx] 
+langchain 
+langchainhub 
+langchain_community 
+langchain-chroma
+langchain-ollama
+langchain-classic
