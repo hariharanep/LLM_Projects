@@ -1,0 +1,14 @@
+python-dotenv
+langchain
+pydantic
+openai
+langchain[openai]
+langchain-classic
+langchain-core 
+langchain-community 
+googlemaps
+folium
+branca
+numpy
+gradio
+leafmap
